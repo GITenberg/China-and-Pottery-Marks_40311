@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40311#China-and-Pottery-Marks
 gutenberg_issued: '2012-07-24'
 gutenberg_type: Text
 identifiers:
